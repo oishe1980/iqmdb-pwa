@@ -2,17 +2,18 @@
   "name": "iQMDb",
   "short_name": "iQMDb",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#90ee90",
   "icons": [
     {
-      "src": "https://yourdomain.com/icon-192.png",
+      "src": "https://raw.githubusercontent.com/oishe1980/iqmdb-pwa/main/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://yourdomain.com/icon-512.png",
+      "src": "https://raw.githubusercontent.com/oishe1980/iqmdb-pwa/main/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
